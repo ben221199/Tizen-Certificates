@@ -29,7 +29,7 @@
 
 | Subject | Issuer | Start | End | Fingerprint |
 | - | - | - | - | - |
-| Tizen Partner Distributor CA |
+| Tizen Partner Distributor CA | Tizen Partner Distributor Root CA | 2012-10-27 | 2022-10-25 | 8d4f08d1c18a2f377668ec298f9cfe746228b661 |
 | Tizen Partner Distributor Signer | Tizen Partner Distributor CA | 2012-10-27 | 2022-10-25 | 7d0772c32d2bb4ac23b85dba1b569a4a842eedf6 |
 
 ### Public
