@@ -6,6 +6,7 @@
 | Tizen Partner Distributor Signer | Tizen Partner Distributor CA | 2012-10-27 | 2022-10-25 | 7d0772c32d2bb4ac23b85dba1b569a4a842eedf6 |
 | Tizen Public Distributor CA |
 | Tizen Public Distributor Signer | Tizen Public Distributor CA | 2012-10-27 | 2012-11-26 | ddc9230861db92ecbe385a59af33a97adee44c8b |
+| Tizen Public Distributor CA | Tizen Public Distributor Root CA | 2012-10-29 | 2022-10-27 | d9344c8c9f1eb7864cd137a451a4d5cf766bc2cd |
 | Tizen Public Distributor Signer | Tizen Public Distributor CA | 2012-10-29 | 2022-10-27 | 964c698bc259c93510dd7e60115acdaa5bc29b0d |
 | Tizen Studio Public CA Class |
 | Tizen Studio Public Signer | Tizen Studio Public CA Class | 2022-10-24 | 2032-10-24 | 32dc2533506ae5a7443e017e204caf1fb93a0453 |
