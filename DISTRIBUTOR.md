@@ -1,6 +1,6 @@
-# Tizen Certificates
+# Distributor
 
-## Distributor - New (2022-2032)
+## New (2022-2032)
 
 **Tizen versions:** 8.0 - ...
 
@@ -28,7 +28,7 @@
 | Tizen Studio Public CA Class | Tizen Studio Public Root Class |
 | Tizen Studio Public Signer | Tizen Studio Public CA Class | 2022-10-24 | 2032-10-24 | 32dc2533506ae5a7443e017e204caf1fb93a0453 |
 
-## Distributor - Old (2012-2022)
+## Old (2012-2022)
 
 **Tizen versions:** 1.0 - 7.0
 
