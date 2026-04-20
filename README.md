@@ -36,9 +36,16 @@
 
 | Subject | Issuer | Start | End | Fingerprint |
 | - | - | - | - | - |
-| Tizen Partner Distributor Root CA | Tizen Partner Distributor Root CA | 2012-10-26 | 2022-10-24 | 6737deb7b99dd2dba52c42decb2f2c3e3397e185 |
+| [Tizen Partner Distributor Root CA](roots/tizen-distributor-root-ca-partner.pem) | Tizen Partner Distributor Root CA | 2012-10-26 | 2022-10-24 | 6737deb7b99dd2dba52c42decb2f2c3e3397e185 |
 | Tizen Partner Distributor CA | Tizen Partner Distributor Root CA | 2012-10-27 | 2022-10-25 | 8d4f08d1c18a2f377668ec298f9cfe746228b661 |
 | Tizen Partner Distributor Signer | Tizen Partner Distributor CA | 2012-10-27 | 2022-10-25 | 7d0772c32d2bb4ac23b85dba1b569a4a842eedf6 |
+
+### Platform
+
+| Subject | Issuer | Start | End | Fingerprint |
+| - | - | - | - | - |
+| [Tizen Partner-Manufacturer Distributor Root CA](roots/tizen-distributor-root-ca-partner-manufacturer.pem) | Tizen Partner-Manufacturer Distributor Root CA | 2012-12-13 | 2022-12-11 | 2a74e8cf9e0fc3d980488be786f783499111e1e0 |
+| [Tizen Partner-Operator Distributor Root CA](roots/tizen-distributor-root-ca-partner-operator.pem) | Tizen Partner-Operator Distributor Root CA | 2012-12-13 | 2022-12-11 | b05f4043711f11bc9a6a62fada925479921611df |
 
 ### Public
 
