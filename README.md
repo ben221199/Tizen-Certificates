@@ -6,21 +6,24 @@
 
 | Subject | Issuer | Start | End | Fingerprint |
 | - | - | - | - | - |
-| Tizen Studio Partner CA Class |
+| Tizen Studio Partner Root Class |
+| Tizen Studio Partner CA Class | Tizen Studio Partner Root Class |
 | Tizen Studio Partner Signer | Tizen Studio Partner CA Class | 2022-10-24 | 2032-10-24 | 7df3e8648f853dd1a9e7d08d324ea9b8ce2cec2d |
 
 ### Platform
 
 | Subject | Issuer | Start | End | Fingerprint |
 | - | - | - | - | - |
-| Tizen Studio Platform CA Class |
+| Tizen Studio Platform Root Class |
+| Tizen Studio Platform CA Class | Tizen Studio Platform Root Class |
 | Tizen Studio Platform Signer | Tizen Studio Platform CA Class | 2022-10-24 | 2032-10-24 | 0cd20eb32ff3d120af721053917f585c061e324a |
 
 ### Public
 
 | Subject | Issuer | Start | End | Fingerprint |
 | - | - | - | - | - |
-| Tizen Studio Public CA Class |
+| Tizen Studio Public Root Class |
+| Tizen Studio Public CA Class | Tizen Studio Public Root Class |
 | Tizen Studio Public Signer | Tizen Studio Public CA Class | 2022-10-24 | 2032-10-24 | 32dc2533506ae5a7443e017e204caf1fb93a0453 |
 
 ## Distributor - Old (2012-2022)
